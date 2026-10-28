@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carsell Ranchi | Scrap Car Buyer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #111;
+      color: white;
+      text-align: center;
+    }
+    header {
+      background: #ffcc00;
+      color: #111;
+      padding: 25px 12px;
+    }
+    h1 { margin: 0; }
+    main { padding: 35px 20px; }
+    .button {
+      display: inline-block;
+      background: #ffcc00;
+      color: #111;
+      padding: 14px 22px;
+      margin: 10px;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>CARSELL RANCHI</h1>
+    <p>Your Trusted Scrap Car Buyer</p>
+  </header>
+  <main>
+    <h2>Sell Your Old or Damaged Car</h2>
+    <p>We buy running, damaged and non-running cars in Ranchi.</p>
+    <p>We also buy old batteries, ACs, coolers and iron scrap.</p>
+    <p>Free vehicle assessment and instant payment before pickup.</p>
+    <a class="button"
+       href="https://www.instagram.com/carsell_ranchi/"
+       target="_blank">Contact Us on Instagram</a>
+  </main>
+</body>
+</html>
